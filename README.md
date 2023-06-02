@@ -3,7 +3,7 @@
 Create password input with show/hide button.
 
 ### Installing as a package
-`npm install @kevinangkajaya/input-password`.
+`npm install @kevinangkajaya/input-password`
 
 ### Usage
 ```
@@ -16,7 +16,7 @@ return(
 ```
 
 ### Props 
-Refer to <input type="password" /> for the props.
+Refer to `<input type="password" />` for the props.
 
 ### Return Value
 JSX Component
