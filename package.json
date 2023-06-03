@@ -1,7 +1,8 @@
 {
   "name": "@kevinangkajaya/input-password",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/kevinangkajaya",
+    "access": "public"
   },
   "version": "1.0.8",
   "description": "",
