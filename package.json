@@ -1,10 +1,13 @@
 {
   "name": "@kevinangkajaya/input-password",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/kevinangkajaya",
     "access": "public"
   },
-  "version": "1.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinangkajaya/input-password.git"
+  },
+  "version": "1.1.1",
   "description": "",
   "scripts": {
     "rollup": "rollup -c",
