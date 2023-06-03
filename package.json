@@ -4,7 +4,7 @@
     "registry": "https://npm.pkg.github.com/kevinangkajaya",
     "access": "public"
   },
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "",
   "scripts": {
     "rollup": "rollup -c",
