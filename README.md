@@ -7,7 +7,7 @@ Create password input with show/hide button.
 
 ### Usage
 ```
-import { InputPassword } from "@kevinangkajaya/input-password"
+import InputPassword from "@kevinangkajaya/input-password"
 
 return(
     <InputPassword className="form-control" value={password} id="password"
